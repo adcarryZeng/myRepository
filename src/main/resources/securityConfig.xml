@@ -19,5 +19,6 @@ xsi:schemaLocation="http://www.springframework.org/schema/beans
                       <security:user name="admin" password="admin" authorities="ROLE_ADMIN"/>
                     </security:user-service>
                  </security:authentication-provider>
-      </security:authentication-manager>         
+      </security:authentication-manager>
+      <bean></bean>         
 </beans>
